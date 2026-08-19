@@ -1,4 +1,10 @@
 releases:
+  44.20260802.3.1:
+    issues:
+      - text: "CVE-2026-64561 - Zapscape"
+        url: "https://github.com/coreos/fedora-coreos-tracker/issues/2203"
+      - text: "Lost fidelity for first boot networking when using iscsi + static networking kargs"
+        url: "https://github.com/coreos/fedora-coreos-tracker/issues/2196"
   44.20260720.3.1:
     issues: []
   44.20260707.3.1:

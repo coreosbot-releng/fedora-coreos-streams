@@ -1,4 +1,6 @@
 releases:
+  44.20260817.2.1:
+    issues: []
   44.20260802.2.2:
     issues:
       - text: "CVE-2026-64561 - Zapscape"
